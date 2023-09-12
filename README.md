@@ -1,14 +1,14 @@
 # Bitcoin_Prediction using LSTM
 Bitcoin  Price Prediction using Data Science and Machine Learning<br>
 1.Data Collection
-<p>Loading Dataset from Yahoo Finance<p>
+Loading Dataset from Yahoo Finance
 2.Data Preprocessing
-  <p>Clean and prepare the data. 
+  Clean and prepare the data. 
    This includes handling missing values, outliers 
-    and converting data into suitable format 
-   for analysis<p>
+   and converting data into suitable format 
+   for analysis
 3.Exploratory Data Analysis(EDA)
-<p>Conduct exploratory analysis to understand the data better.<p>
+Conduct exploratory analysis to understand the data better.
 4.Model Selection
 <p>Choose appropriate machine learning or deep learning
   models for your prediction task.<br>
