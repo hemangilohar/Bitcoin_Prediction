@@ -18,8 +18,7 @@ Bitcoin  Price Prediction using Data Science and Machine Learning<br>
 <p>Split your dataset into training, validation, and test sets. 
  This helps evaluate model performance and prevent overfitting.<p>
 6.Model Training: <br>
-<p>Train your selected models on the training data. 
-  Adjust hyperparameters and experiment with different alg<p>
+<p>Train your selected models on the training data. Adjust hyperparameters and experiment with different alg<p>
 7.Normalising Data:<br>
   <p>Detecting Date coloumn and normalising using MinMaxScaler<p> 
 8.Model Evaluation:<br>
