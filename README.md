@@ -11,24 +11,24 @@ Bitcoin  Price Prediction using Data Science and Machine Learning<br>
   <br>
 3. Exploratory Data Analysis(EDA)<br>
 <p>Conduct exploratory analysis to understand  the data better.<p>
-Model Selection
+4.Model Selection
 <br>
 <p>Choose appropriate machine learning or deep learning models for
  your prediction task.Common choices include regression models, 
  time series models,
  and neural networks.<p>
-4.Data Splitting<br>
+5.Data Splitting<br>
 <p>Split your dataset into training, validation, and test sets. 
  This helps evaluate model performance and prevent overfitting.<p>
-5.Model Training: <br>
+6.Model Training: <br>
 <p>Train your selected models on the training data. 
   Adjust hyperparameters and experiment with different alg<p><br>
-  6. Normalising Data:<br>
+7. Normalising Data:<br>
   <p>Detecting Date coloumn and normalising using MinMaxScaler<p> <br>
-  7.Model Evaluation:<br>
+8.Model Evaluation:<br>
 <p>Evaluate model performance using appropriate metrics 
  like Mean Absolute Error (MAE), 
-  Mean Squared Error (MSE), or accuracy, depending on the specific 
+ Mean Squared Error (MSE), or accuracy, depending on the specific 
  prediction task.<p><br>
  Plotting last 15 days and dataset and next predicted 30 days<br>
 <p>plotting whole closing stock price with prediction<p>
