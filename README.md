@@ -11,8 +11,7 @@ Bitcoin  Price Prediction using Data Science and Machine Learning<br>
 <p>Conduct exploratory analysis to understand <br> the data better.<p>
 4.Model Selection
 <p>Choose appropriate machine learning or deep learning models for<br>
- your prediction task.Common choices include regression models, 
- time series models,
+ your prediction task.Common choices include regression models, time series models,
  and neural networks.<p>
 5.Data Splitting<br>
 <p>Split your dataset into training, validation,and test sets.<br> 
