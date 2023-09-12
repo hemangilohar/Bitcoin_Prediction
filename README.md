@@ -2,10 +2,10 @@
 <br>
 Bitcoin  Price Prediction using Data Science and Machine Learning
 <br>
-</h1>Step1: Data Collection</h1>
+ Data Collection
 <p>Loading Dataset from Yahoo Finance<p>
 <br>
-</h2>Step2: Data Preprocessing<h1>
+ Data Preprocessing
   <p>Clean and prepare the data. This includes handling missing values,
   outliers and converting data into suitable format for analysis<p>
   <br>
