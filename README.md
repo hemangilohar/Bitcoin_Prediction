@@ -4,13 +4,15 @@ Bitcoin  Price Prediction using Data Science and Machine Learning<br>
 <p>Loading Dataset from Yahoo Finance<p>
 2.Data Preprocessing
   <p>Clean and prepare the data. 
-   This includes handling missing values, outliers and converting data into suitable format 
+   This includes handling missing values, outliers 
+    and converting data into suitable format 
    for analysis<p>
 3.Exploratory Data Analysis(EDA)
-<p>Conduct exploratory analysis to understand  the data better.<p>
+<p>Conduct exploratory analysis to understand the data better.<p>
 4.Model Selection
-<p>Choose appropriate machine learning or deep learning models for<br>
- your prediction task.Common choices include regression models, time series models,
+<p>Choose appropriate machine learning or deep learning
+  models for your prediction task.Common choices include  regression models,
+  time series models,
  and neural networks.<p>
 5.Data Splitting<br>
 <p>Split your dataset into training, validation,and test sets.<br> 
