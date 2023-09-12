@@ -23,17 +23,12 @@ Data Splitting
 Model Training:
   <br>
 <p>Train your selected models on the training data. 
-  Adjust hyperparameters and experiment with different alg<p>
-    <br>
-    Normalising Data:
-      <br>
-      <p>Detecting Date coloumn and normalising using MinMaxScaler<p>
-        <br>
-  Model Evaluation:
-    <br>
+  Adjust hyperparameters and experiment with different alg<p><br>
+    Normalising Data:<br>
+  <p>Detecting Date coloumn and normalising using MinMaxScaler<p> <br>
+  Model Evaluation:<br>
 <p>Evaluate model performance using appropriate metrics like Mean Absolute Error (MAE), 
   Mean Squared Error (MSE), or accuracy, depending on the specific prediction task.<p>
 <br>
-   Plotting last 15 days and dataset and next predicted 30 days<h1>
-  <br>
+   Plotting last 15 days and dataset and next predicted 30 days<br>
 <p>plotting whole closing stock price with prediction<p>
